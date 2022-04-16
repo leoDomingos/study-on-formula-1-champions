@@ -14,4 +14,4 @@ The `data-scripts.ipynb` notebook includes all necessary API calls, along with s
 
 All data from the API is stored in the `data` folder, which has a readme file explaining each of the files within.
 
-The environment will all the variables is included in a .yml file. Using conda, you can clone it using `conda env create -f path-to-environment.yml`.
+The environment will all the dependencies is included in a .yml file. Using conda, you can clone it using `conda env create -f path-to-environment.yml`.
